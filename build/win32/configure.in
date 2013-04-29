@@ -1,0 +1,8 @@
+AXIS2_BIN_DIR = C:\damitha\axis2c\build\deploy
+
+#CRUNTIME Library (Use /MD or /MT )
+CRUNTIME=/MD
+# Embed Manifest
+EMBED_MANIFEST=1
+DEBUG=1
+
